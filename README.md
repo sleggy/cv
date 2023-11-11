@@ -2,7 +2,7 @@
 
 ### _Systems Consultant based in Singapore_
 
-_I architect and build cloud infrastructure and modern workplace solutions_
+_I architect and build cloud infrastructure and modern workplace solutions_ <br>
 
 _On a day to day basis, I am **responsible for securing and maintaining our customer's IT environment**_
 
